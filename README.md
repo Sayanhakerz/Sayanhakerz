@@ -1,325 +1,516 @@
 <div align="center">
 
-# 👋 Hi, I'm Sayan Ghosh
+# 🛡️ Sayan Ghosh
 
-### 🛡️ Aspiring SOC Analyst | Cybersecurity & Cloud Security | Linux | AWS | DevOps
+### Aspiring SOC Analyst | Cloud Security Analyst | Cybersecurity
+
+**Threat Detection • Incident Response • AWS Security • Security Automation**
 
 <p>
-  <a href="https://github.com/Sayanhakerz">
-    <img src="https://img.shields.io/github/followers/Sayanhakerz?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Sayanhakerz?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Sayanhakerz?affiliations=OWNER&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/sayan-ghosh-cervizo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Sayanhakerz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Sayanhakerz?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=sayanhakerz&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+# 👨‍💻 About Me
+
+I'm a cybersecurity student focused on building practical skills for **SOC Analyst and Cloud Security roles**.
+
+My security approach is hands-on:
 
 ```text
-🎓 Final-year B.Sc. Cybersecurity student at Brainware University
-🎯 Target Role      → SOC Analyst
-🛡️ Focus            → SOC | VAPT | Threat Detection | Cloud Security
-🐧 Environment      → Linux / Kali Linux / Ubuntu
-☁️ Cloud            → AWS
-⚙️ DevOps           → Docker | Git | Bash | AWS CLI
-🔎 Security Tools   → Nmap | Wireshark | Burp Suite
-🐍 Programming      → Python | Bash | JavaScript (Basic)
-📄 Data/Config      → XML | YAML
-📍 Location         → Kolkata, India
+Build → Detect → Investigate → Harden → Validate → Document
 ```
 
-I am a cybersecurity student focused on building practical skills through hands-on labs, security projects, Linux environments, cloud infrastructure and automation.
+### 🔐 Core Security Focus
 
-My current goal is to develop strong capabilities in **Security Operations, threat detection, vulnerability assessment and cloud security** while building real-world projects that demonstrate my technical skills.
-
----
-
-## 🛡️ Cybersecurity Focus
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔎 Security Operations
-
-* SOC Fundamentals
-* Log Analysis
-* Threat Detection
-* Incident Response
-* Authentication Monitoring
-* Network Security
-* Security Monitoring
-
-</td>
-<td width="50%">
-
-### 🧪 Security Testing
-
-* VAPT
-* Web Application Security
-* Network Reconnaissance
-* Vulnerability Assessment
-* Nmap
-* Burp Suite
-* Wireshark
-* OWASP Concepts
-
-</td>
-</tr>
-</table>
+- 🛡️ Security Operations Center (SOC)
+- 🔎 Threat Detection & Investigation
+- 🚨 Security Alert Triage
+- 🧬 IOC Extraction & Threat Intelligence
+- ☁️ AWS Cloud Security
+- 🔐 IAM & Least Privilege
+- 🌐 Network Security
+- 🐧 Linux Security
+- 🧱 Cloud Architecture Hardening
+- ⚙️ Security Automation
+- 📊 Security Monitoring & Validation
 
 ---
 
-## ☁️ Cloud & DevOps
+# 💻 Languages & Scripting
 
-```text
-AWS
-├── EC2
-├── AWS CLI
-└── Cloud Infrastructure
+<p align="left">
 
-DevOps
-├── Docker
-├── Docker Compose
-├── Git
-├── GitHub
-├── Bash
-└── Automation
-```
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-I am currently building projects around **AWS infrastructure automation, Dockerized applications, Linux administration and Bash scripting**.
+<img src="https://img.shields.io/badge/Bash-Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PowerShell-Fundamentals-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Regex-Log%20Analysis-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JSON-Configuration-000000?style=for-the-badge&logo=json&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/XML-Structured%20Data-F26522?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/YAML-Configuration-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+
+</p>
 
 ---
 
-## 🧰 Tech Stack
+# 🛡️ Security & Technical Stack
 
-### 🔐 Cybersecurity
+## 🔐 Cybersecurity
 
-<p>
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/VAPT-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SOC-CC0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Suricata-EF4444?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wazuh-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Nessus-00A88F?style=for-the-badge"/>
+
 </p>
 
-### ☁️ Cloud & DevOps
+## ☁️ AWS & Cloud Security
 
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/KMS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SSM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
 </p>
 
-### 💻 Programming & Systems
+## 🐧 Systems & DevOps
 
-<p>
+<p align="left">
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/XML-Basic-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YAML-Basic-CB171E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Security Projects
 
-<table>
-<tr>
-<td width="50%">
+## 🛡️ 01 — SOC Threat Detection & IOC Enrichment Automation
 
-<h3>🛡️ AI Vulnerability Detector</h3>
+### Automated Security Operations Center Pipeline
 
-AI/ML-focused cybersecurity project exploring detection and protection against vulnerabilities affecting machine-learning systems.
+A hands-on SOC automation project that processes security alerts, extracts indicators of compromise, enriches them with threat intelligence and generates an investigation-oriented report.
 
-**Focus:**
+**Repository:**  
+👉 https://github.com/Sayanhakerz/soc-threat-enrichment-automation
 
-* Adversarial attacks
-* FGSM
-* PGD
-* CW
-* Data poisoning
-* Model inversion
-* Security evaluation
-
-<a href="https://github.com/Sayanhakerz/AI-Vulnerability-Detector">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%">
-
-<h3>☁️ EC2 Provisioning Automation</h3>
-
-AWS infrastructure automation project using Bash scripting and AWS CLI to provision and manage EC2 resources.
-
-**Focus:**
-
-* AWS EC2
-* AWS CLI
-* Bash scripting
-* Linux
-* Automation
-* Git/GitHub
-
-<a href="https://github.com/Sayanhakerz/EC2-Provisioning-Automation-with-AWS-CLI-and-Bash">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sayanhakerz&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayanhakerz&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Sayanhakerz&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayanhakerz&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 📌 GitHub Metrics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sayanhakerz&theme=github_dark" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sayanhakerz&theme=github_dark" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sayanhakerz&theme=github_dark" />
-
-</div>
-
----
-
-# 🧭 Current Learning Path
+### 🔍 Security Workflow
 
 ```text
-Cybersecurity
-│
-├── 🛡️ SOC Operations
-│   ├── Networking
-│   ├── Log Analysis
-│   ├── Threat Detection
-│   ├── Incident Response
-│   └── SIEM
-│
-├── 🔎 VAPT
-│   ├── Reconnaissance
-│   ├── Enumeration
-│   ├── Web Security
-│   ├── OWASP
-│   └── Vulnerability Assessment
-│
-├── ☁️ Cloud Security
-│   ├── AWS
-│   ├── EC2
-│   ├── IAM
-│   └── Cloud Infrastructure
-│
-└── ⚙️ DevSecOps
-    ├── Linux
-    ├── Bash
-    ├── Git
-    ├── Docker
-    └── Automation
+Security Event
+      ↓
+Suricata IDS
+      ↓
+Alert Detection
+      ↓
+IOC Extraction
+      ↓
+Threat Intelligence
+      ↓
+AbuseIPDB
+      ↓
+Risk Assessment
+      ↓
+Incident Report
+```
+
+### 🔧 Technologies
+
+`Suricata` `Python` `AbuseIPDB` `Linux` `Bash` `JSON` `Regex`
+
+### 🧠 Skills Demonstrated
+
+- Network intrusion detection
+- Security alert analysis
+- IOC extraction
+- Threat intelligence enrichment
+- IP reputation analysis
+- Risk assessment
+- Security automation
+- Incident reporting
+- Linux security operations
+
+### 🎯 SOC Workflow
+
+**Detect → Enrich → Analyze → Assess Risk → Report**
+
+---
+
+## ☁️ 02 — Secure AWS Cloud Architecture & Hardening Lab
+
+### AWS Cloud Security & Infrastructure Hardening
+
+A hands-on AWS security lab focused on identifying insecure configurations, implementing security controls and validating the hardened environment.
+
+**Repository:**  
+👉 https://github.com/Sayanhakerz/secure-aws-cloud-architecture
+
+### 🏗️ Architecture
+
+```text
+                         AWS
+                          │
+                   ┌──────┴──────┐
+                   │     VPC     │
+                   │ 10.0.0.0/16 │
+                   └──────┬──────┘
+                          │
+             ┌────────────┴────────────┐
+             │                         │
+        Public Subnet             Private Subnet
+             │                         │
+          EC2/Web                  Private EC2
+             │                         │
+            IGW                       SSM
+             │                         │
+             └───────────┬─────────────┘
+                         │
+                    NAT Gateway
+                         │
+                      Internet
+
+             ┌──────────────────────┐
+             │      S3 + KMS        │
+             │  SSE-KMS Encryption  │
+             └──────────┬───────────┘
+                        │
+                 IAM Least Privilege
+```
+
+### 🔐 Security Controls
+
+- Custom AWS VPC
+- Public/private subnet segmentation
+- Internet Gateway
+- NAT Gateway
+- Security Group hardening
+- Removal of public SSH exposure
+- AWS Systems Manager Session Manager
+- IAM least privilege
+- Private EC2 deployment
+- S3 Block Public Access
+- S3 Versioning
+- SSE-KMS encryption
+- Customer-managed KMS key
+- S3 encryption policy enforcement
+- Encrypted EBS volume
+- AWS CLI validation
+
+### 🧪 Security Validation
+
+```text
+IAM Role Validation
+        ↓
+SSM Session Validation
+        ↓
+Private EC2 Validation
+        ↓
+NAT Connectivity Test
+        ↓
+S3 KMS Encryption Validation
+        ↓
+Unauthorized Encryption Test
+        ↓
+IAM Least-Privilege Test
+```
+
+### 🎯 Cloud Security Skills Demonstrated
+
+`AWS VPC` `EC2` `IAM` `S3` `KMS` `SSM` `Security Groups` `NAT` `AWS CLI`
+
+---
+
+# 🧠 Security Skill Matrix
+
+| Security Domain | Hands-On Skills |
+|---|---|
+| 🛡️ SOC | Alert Triage, Detection, Investigation |
+| 🧬 Threat Intelligence | IOC Extraction, Enrichment, IP Reputation |
+| 🚨 IDS | Suricata |
+| 📊 SIEM | Wazuh |
+| 🌐 Network Security | TCP/IP, DNS, DHCP, Routing |
+| 🔎 Network Analysis | Wireshark, Nmap |
+| 🔐 Web Security | Burp Suite |
+| ☁️ AWS Security | VPC, EC2, IAM, S3, KMS, SSM |
+| 🔑 IAM | Roles, Policies, Least Privilege |
+| 🔒 Encryption | KMS, SSE-KMS, EBS Encryption |
+| 🐧 Linux | Linux, Kali Linux, Ubuntu |
+| 🪟 Windows | PowerShell Fundamentals |
+| ⚙️ Automation | Python, Bash, AWS CLI |
+| 📄 Security Data | JSON, XML, YAML, Regex |
+
+---
+
+# 🔬 Hands-On Security Labs
+
+### 🛡️ SOC / Blue Team
+
+- Wazuh SIEM
+- Suricata IDS
+- Linux log analysis
+- Security alert investigation
+- IOC enrichment
+- Threat intelligence
+- Incident reporting
+- SOC automation
+
+### ☁️ Cloud Security
+
+- AWS VPC architecture
+- Public/private subnet design
+- Security Group hardening
+- IAM least privilege
+- EC2 security
+- SSM-based administration
+- S3 security
+- KMS encryption
+- NAT connectivity
+- AWS CLI validation
+
+### 🔎 Security Tools
+
+- Nmap
+- Wireshark
+- Burp Suite
+- Nessus
+- Suricata
+- Wazuh
+- AWS CLI
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sayanhakerz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayanhakerz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sayanhakerz&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sayanhakerz&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+---
+
+# 📊 Top Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sayanhakerz&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 🧠 Security Engineering Approach
+
+I approach security work as a continuous lifecycle:
+
+```text
+       ┌───────────────┐
+       │   IDENTIFY    │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │    DETECT     │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │  INVESTIGATE  │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │  ASSESS RISK  │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │    RESPOND    │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │    HARDEN     │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │   VALIDATE    │
+       └───────┬───────┘
+               ↓
+       ┌───────────────┐
+       │   DOCUMENT    │
+       └───────┬───────┘
+               │
+               └──────────→ IMPROVE
 ```
 
 ---
 
-# 🧪 Hands-on Labs
-
-I believe cybersecurity is best learned by building and breaking things in controlled environments.
+# 📚 Current Learning Path
 
 ```text
-🔹 Linux Security & Administration
-🔹 Network Scanning & Enumeration
-🔹 Web Application Security
-🔹 Log Analysis
-🔹 AWS EC2 Automation
-🔹 Docker & Containerized Applications
-🔹 Bash Automation
-🔹 Vulnerability Detection
-🔹 Security Monitoring
+Networking
+     ↓
+Linux & Windows
+     ↓
+SOC Fundamentals
+     ↓
+SIEM + IDS
+     ↓
+Threat Detection
+     ↓
+Threat Intelligence
+     ↓
+Incident Response
+     ↓
+Python Security Automation
+     ↓
+AWS Security
+     ↓
+Cloud IAM & Network Security
+     ↓
+Cloud Security Engineering
 ```
 
 ---
 
 # 🎯 2026 Goals
 
-* [ ] Build a complete SOC home lab
-* [ ] Improve SIEM skills
-* [ ] Practice real-world log analysis
-* [ ] Build incident-response labs
-* [ ] Strengthen AWS security skills
-* [ ] Automate security tasks with Python/Bash
-* [ ] Build more cybersecurity projects
-* [ ] Contribute to open-source security projects
-* [ ] Prepare for SOC Analyst roles
+- Strengthen SOC L1 investigation skills
+- Improve Linux and Windows security knowledge
+- Expand Python security automation
+- Deepen AWS cloud security knowledge
+- Practice incident response workflows
+- Build detection engineering projects
+- Learn AWS CloudTrail and cloud monitoring
+- Strengthen IAM and cloud attack-path analysis
+- Develop production-oriented security documentation
+- Prepare for SOC Analyst and Cloud Security opportunities
 
 ---
 
-# 🤝 Let's Connect
+# 📂 Portfolio Philosophy
 
-I'm interested in connecting with people working in:
+Every major security project should demonstrate:
 
-**SOC • Cybersecurity • Cloud Security • DevSecOps • VAPT • Threat Detection • Open Source**
+```text
+Problem
+   ↓
+Architecture
+   ↓
+Security Risk
+   ↓
+Implementation
+   ↓
+Testing
+   ↓
+Evidence
+   ↓
+Documentation
+```
+
+I focus on demonstrating **practical security engineering ability**, not simply listing tools.
+
+---
+
+# 📌 Recruiter Quick View
+
+| Area | Evidence |
+|---|---|
+| 🛡️ SOC | Suricata IDS + IOC enrichment automation |
+| 🧬 Threat Intelligence | AbuseIPDB integration |
+| ⚙️ Security Automation | Python-based SOC workflow |
+| ☁️ Cloud Security | AWS architecture hardening lab |
+| 🌐 AWS Networking | VPC, subnets, NAT, routing |
+| 🔐 IAM | Least-privilege role design |
+| 🔒 Encryption | KMS, SSE-KMS, encrypted EBS |
+| 🖥️ Endpoint Security | EC2 + SSM |
+| 🧱 Network Security | Security Groups + segmentation |
+| 🧪 Security Validation | AWS CLI + access-denied testing |
+| 🐧 Linux | Linux / Kali Linux / Ubuntu |
+| 🪟 Windows | PowerShell fundamentals |
+| 🐍 Programming | Python |
+| 💻 Scripting | Bash / PowerShell |
+| 📄 Security Data | JSON / XML / YAML / Regex |
+| 🌐 Web | JavaScript fundamentals |
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/sayan-ghosh-cervizo/">
-<img src="https://img.shields.io/badge/LinkedIn-Sayan%20Ghosh-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+### Open to opportunities in
 
-<a href="mailto:gsayan310@gmail.com">
-<img src="https://img.shields.io/badge/Email-gsayan310%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+**SOC Analyst L1 • Cybersecurity • Cloud Security • Security Operations**
+
+<br>
 
 <a href="https://github.com/Sayanhakerz">
 <img src="https://img.shields.io/badge/GitHub-Sayanhakerz-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </div>
@@ -328,8 +519,8 @@ I'm interested in connecting with people working in:
 
 <div align="center">
 
-### 🛡️ Learn. Build. Detect. Secure.
+### 🛡️ Detect. Investigate. Harden. Automate.
 
-*"Building practical cybersecurity skills one lab at a time."*
+**Building practical cybersecurity skills through hands-on projects.**
 
 </div>
